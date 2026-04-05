@@ -15,7 +15,6 @@ I specialize in building complex system architectures, automation, and integrate
 ---
 
 ### 🛠 Tech Stack & Tools
-### 🧰 Tech Stack
 
 ### 🧰 Tech Stack
 
