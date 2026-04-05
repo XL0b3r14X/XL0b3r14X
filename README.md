@@ -15,13 +15,15 @@ I specialize in building complex system architectures, automation, and integrate
 ---
 
 ### 🛠 Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_11_Pro-0078D4?style=for-the-badge&logo=windows-11&logoColor=white" />
-</p>
+### 🧰 Tech Stack
 
+### 🧰 Tech Stack
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,sqlite,linux,bash,git,vscode,docker&perline=15" />
+  </a>
+</p>
 ---
 
 ### 📊 Github Performance Metrics
